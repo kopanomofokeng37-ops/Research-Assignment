@@ -10,9 +10,10 @@ Understand data ethics,governance and career paths in data.
 Topics Covered
 
 Data Fundamentals
-*Databases, Data warehouses,Data Lakes.
-*Data modelling and Data mining
-*ETL processess and Data formats.
+
+Databases, Data warehouses,Data Lakes.
+Data modelling and Data mining
+ETL processess and Data formats.
 
 AI And Machine Learning
 *Artificail Intelligence(AI0

@@ -11,42 +11,33 @@ Topics Covered
 
 Data Fundamentals
 
-Databases, Data warehouses,Data Lakes.
-Data modelling and Data mining
-ETL processess and Data formats.
+Databases, Data warehouses,Data Lakes,Data modelling, Data mining, ETL processess and Data formats.
+
 
 AI And Machine Learning
-*Artificail Intelligence(AI0
-*Machine learning and Deep Learning
-*Natural Language Processing (NLP)
-*Generative AI and Large language Models.
+
+Artificail Intelligence(AI),Machine learning and Deep Learning,Natural Language Processing (NLP),Generative AI and Large language Models.
+
 
 APIs And Tools
-*APIs and REST APIs
-*JSON and prompt Engineering
-*Cloud Computing (laaS,PaaS, SaaS)
-*Python and Jupyter Notebook
+
+APIs and REST APIs,JSON and prompt Engineering,Cloud Computing (laaS,PaaS, SaaS),Python and Jupyter Notebook.
+
 
 Data Ethics And Careers
-*Data privacy and GDPR
-*Data governance and AI Bias
-*Roles: Data Analyst,Data Scientist,Data Engineer and AI Engineer
-*Business Intelligence tools
+
+Data privacy and GDPR,Data governance and AI Bias, Roles: Data Analyst,Data Scientist,Data Engineer and AI Engineer,Business Intelligence tools.
+
 
 Tools And Technology Mentioned
-*Python
-*PowerBI/ Tableau
-*Cloud Platforms( AWS,Azure,Google Cloud)
-*APIs and JSON
+
+Python,PowerBI/ Tableau, Cloud Platforms(AWS,Azure,Google Cloud),APIs and JSON
+
 
 References
-*IBM
-*Microsoft Learn
-*AWS
-*DataCamp
-*Coursera
-*Google Cloud
+
+IBM, Microsoft Learn,AWS, DataCamp,Coursera,Google Cloud.
+
 
 Purpose
 This assisgnment is desgined to build strong foundation in data and AI concepts, to prepare student for further studies or entry level data roles.
-

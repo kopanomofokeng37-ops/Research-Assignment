@@ -3,13 +3,13 @@ This repository contains a beginner-level theoretical assignment that is based o
 
 **Objectives**
 
-To understand core data concepts such as databases, data warehouse and data lakes.
+*To understand core data concepts such as databases, data warehouse and data lakes.
 
-Learn the basics of Artificial intelligence and Machine Learning.
+*Learn the basics of Artificial intelligence and Machine Learning.
 
-Explore APIs, cloud computing and developer tools.
+*Explore APIs, cloud computing and developer tools.
 
-Understand data ethics, governance and career paths in data.
+*Understand data ethics, governance and career paths in data.
 
 
 **Topics Covered**
